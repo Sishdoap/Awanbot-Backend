@@ -6,3 +6,4 @@ venv
 .gitignore
 *.pyc
 test.html
+.idea
