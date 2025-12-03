@@ -1,0 +1,8 @@
+pycache
+venv
+.venv
+.env
+.git
+.gitignore
+*.pyc
+test.html

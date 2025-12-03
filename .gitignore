@@ -1,0 +1,11 @@
+# Mac system files
+.DS_Store
+
+# Python junk
+__pycache__/
+*.pyc
+venv/
+.env
+.venv/
+
+test.html
